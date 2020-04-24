@@ -7,5 +7,6 @@
 ## Mobile apps
 
 ## Web apps
+- [React Supermarket Tracker](https://github.com/RealDyllon/react-supermarket-tracker) - A supermarket tracker by [RealDyllon](https://github.com/RealDyllon)
 
 ## Desktop apps
