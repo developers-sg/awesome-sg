@@ -13,3 +13,6 @@
 - [Hawkercentral](https://github.com/limyifan1/hawkercentral) - A food delivery web app by [limyifan1](https://github.com/limyifan1)
 
 ## Desktop apps
+
+## Open data
+- [singapore-primary-math-syllabus](https://github.com/davidzbot/singapore-primary-math-syllabus) - Machine-readable dataset of the MOE 2021 Primary Mathematics Syllabus (P1-P6), CC BY-NC 4.0 by [davidzbot](https://github.com/davidzbot)
